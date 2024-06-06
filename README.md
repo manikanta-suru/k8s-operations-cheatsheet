@@ -1,10 +1,9 @@
 # Kubernetes Cheatsheet
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/repo-name.svg?style=social&label=Stars)](https://github.com/your-username/repo-name)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/repo-name.svg?style=social&label=Fork)](https://github.com/your-username/repo-name)
+[![GitHub stars](https://img.shields.io/github/stars/manikanta-suru/k8s-operations-cheatsheet.svg?style=social&label=Stars)](https://github.com/manikanta-suru/k8s-operations-cheatsheet)
+[![GitHub forks](https://img.shields.io/github/forks/manikanta-suru/k8s-operations-cheatsheet.svg?style=social&label=Fork)](https://github.com/manikanta-suru/k8s-operations-cheatsheet)
 
-This repository contains a comprehensive Kubernetes cheatsheet that covers various commands and operations for working with Kubernetes objects, monitoring, node management, pods, deployments, services, ingress, daemonsets, statefulsets, configmaps, secrets, rollouts, jobs, cronjobs, network policies, and labels/selectors.
-
+This cheatsheet provides a quick reference guide for common Kubernetes operation
 ## Table of Contents
 
 - [Creating Objects](#creating-objects)
